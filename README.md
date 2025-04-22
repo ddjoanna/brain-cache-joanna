@@ -56,6 +56,9 @@
 - [程序、執行緒與協程](programming/multi_task_Process_Thread_Coroutine.md)
 - [競態條件](programming/race_condition.md)
 - [API 架構風格總覽](programming/api_architectural_styles_overview.md)
+- [Laravel 重大演進與 HTTP 請求生命週期詳細說明](programming/framework_php_laravel_provider.md)
+- [Laravel 事件系統詳細說明](programming/framework_php_laravel_event.md)
+- [Laravel 服務提供者](programming/framework_php_laravel_provider.md)
 
 ### database （資料庫）
 

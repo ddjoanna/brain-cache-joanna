@@ -46,6 +46,7 @@
 - [Clean Architecture 與 DDD](programming/design_Clean_Architecture_DDD.md)
 - [SOLID 原則](programming/design_OOP_SOLID.md)
 - [軟體設計模式](programming/design_pattern_software.md)
+- [軟體設計模式中創建型模式](programming/design_pattern_software_creational.md)
 - [資料結構概述](programming/data_structure_overview.md)
 - [堆疊與佇列](programming/data_structure_Stack_Queue.md)
 - [訊息佇列總覽](programming/message_queue_overview.md)

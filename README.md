@@ -59,6 +59,7 @@
 - [Laravel 重大演進與 HTTP 請求生命週期詳細說明](programming/framework_php_laravel_provider.md)
 - [Laravel 事件系統詳細說明](programming/framework_php_laravel_event.md)
 - [Laravel 服務提供者](programming/framework_php_laravel_provider.md)
+- [Laravel 實作 API 請求流量管理](programming/framework_php_laravel_api_rate_limit.md)
 
 ### database （資料庫）
 
@@ -98,6 +99,7 @@
 - [TCP 與 UDP 協議](infrastructure/Network_TCP_UDP.md)
 - [虛擬私有雲（VPC）](infrastructure/Network_VPC.md)
 - [服務等級協議](infrastructure/Service_Level_Agreement.md)
+- [統一資源標識符](infrastructure/universal_resource_URI_URL_URN.md)
 
 ### data-pipeline （數據處理）
 

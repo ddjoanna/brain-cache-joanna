@@ -60,6 +60,7 @@
 - [Laravel 事件系統詳細說明](programming/framework_php_laravel_event.md)
 - [Laravel 服務提供者](programming/framework_php_laravel_provider.md)
 - [Laravel 實作 API 請求流量管理](programming/framework_php_laravel_api_rate_limit.md)
+- [分頁設計](programming/pagination_page_num_next_page_token.md)
 
 ### database （資料庫）
 

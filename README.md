@@ -97,6 +97,7 @@
 - [Kubernetes 資源物件](infrastructure/Kubernetes_resource_objects.md)
 - [Kubernetes 存取控制](infrastructure/Kubernetes_access_control.md)
 - [Minikube](infrastructure/Kubernetes_Minikube.md)
+- [Kubernetes 和 Docker Swarm 比較](infrastructure/Kubernetes_Docker_Swarm.md)
 - [Helm Chart](infrastructure/Kubernetes_Helm_Chart.md)
 - [Terraform 工具](infrastructure/Infrastructure_as_Code_terraform.md)
 - [OpenTelemetry](infrastructure/OpenTelemertry.md)

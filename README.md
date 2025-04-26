@@ -84,6 +84,11 @@
 - [ACID 特性](database/ACID.md)
 - [CAP 與 BASE 理論](database/CAP_BASE.md)
 - [兩階段提交與 SAGA 模式](database/2PC_SAGA.md)
+- [OLAP 與 OLTP 比較](database/OLAP_OLTP.md)
+- [OLAP 線上分析處理](database/OLAP.md)
+- [ClickHouse](database/OLAP_ClickHouse.md)
+- [ClickHouse 與 Snowflake 比較](database/OLAP_ClickHouse_Snowflake.md)
+- [ClickHouse 與 Druid 比較](database/ClickHouse_Druid.md)
 
 ### infrastructure （基礎架構）
 

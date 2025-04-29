@@ -61,6 +61,9 @@
 - [Laravel 服務提供者](programming/framework_php_laravel_provider.md)
 - [Laravel 實作 API 請求流量管理](programming/framework_php_laravel_api_rate_limit.md)
 - [分頁設計](programming/pagination_page_num_next_page_token.md)
+- [CDS 設計模式概述](programming/design_pattern_CDC.md)
+- [Debezium 概述](programming/design_pattern_CDC_Debezium.md)
+- [CDC 與 MySQL 實作](programming/mysql_debezium.md)
 
 ### database （資料庫）
 
